@@ -94,6 +94,7 @@ section{
   font-family: 'Orbitron', serif;
   text-shadow: -2px 0px #f0e68c, 0px 2px #f0e68c, 2px 0px #f0e68c, 0px -2px #f0e68c;
   color: #a99456;
+  text-align: center;
 }
 
 .sec-title{
@@ -103,6 +104,7 @@ section{
   font-family: 'Orbitron', cursive;
   text-shadow: -2px 0px #f0e68c, 0px 2px #f0e68c, 2px 0px #f0e68c, 0px -2px #f0e68c;
   color: #a99456;
+  text-align: center;
 }
 
 .sub-title{
@@ -111,6 +113,7 @@ section{
   font-size: 15px;
   margin-bottom: 20px;
   margin-top: 30px;
+  text-align: center;
 }
 
 h1{
